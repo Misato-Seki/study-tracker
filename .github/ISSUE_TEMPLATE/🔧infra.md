@@ -1,8 +1,8 @@
 ---
-name: Feature
+name: "\U0001F527Infra"
 about: Suggest an idea for this project
-title: 'Feature: '
-labels: backend
+title: "\U0001F527Infra: "
+labels: ''
 assignees: ''
 
 ---
